@@ -1,0 +1,13 @@
+[
+  { "username": "admin1", "password": "admin123", "role": "admin", "fullname": "Admin Utama" },
+
+  { "username": "lect1", "password": "lect123", "role": "pensyarah", "fullname": "Dr Ali" },
+  { "username": "lect2", "password": "lect123", "role": "pensyarah", "fullname": "Dr Abu" },
+  { "username": "lect3", "password": "lect123", "role": "pensyarah", "fullname": "Dr Aminah" },
+
+  { "username": "stud1", "password": "stud123", "role": "pelajar", "fullname": "Ahmad" },
+  { "username": "stud2", "password": "stud123", "role": "pelajar", "fullname": "Aisyah" },
+  { "username": "stud3", "password": "stud123", "role": "pelajar", "fullname": "Daniel" },
+  { "username": "stud4", "password": "stud123", "role": "pelajar", "fullname": "Siti" },
+  { "username": "stud5", "password": "stud123", "role": "pelajar", "fullname": "Farah" }
+]
